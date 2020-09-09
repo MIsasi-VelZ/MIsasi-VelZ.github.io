@@ -10,7 +10,7 @@
                   "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
                },
                {
-                  "/": "/buy/*",
+                  "/": "/users/*",
                   "comment": "Matches any URL whose path starts with /buy/"
                },
                {
