@@ -1,17 +1,27 @@
 
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "NV468985ND.com.velocityz.peeq",
-                "paths": [ "/users/"]
-            },
-            {
-                "appID": "NV468985ND.com.velocityz.peeq",
-                "paths": [ "*" ]
-            }
-        ]
-  }
-  }
-   
+		"webcredentials": {
+				"apps": [
+						"NV468985ND.com.velocityz.peeq"
+				]
+		},
+		"applinks": {
+				"apps": [],
+				"details": [
+						{
+								"appID": "NV468985ND.com.velocityz.peeq",
+								"paths": [
+										"/users/*"
+								],
+								"appIDs": [
+										"NV468985ND.com.velocityz.peeq"
+								],
+								"components": [
+										{
+												"/": "/users/*"
+										}
+								]
+						}
+				]
+		}
+}
