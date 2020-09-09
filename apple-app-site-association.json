@@ -1,9 +1,3 @@
-"application/json": {
-    "source": "iana",
-    "charset": "UTF-8",
-    "compressible": true,
-    "extensions": ["json","map"]
-  }
 
 {
   "applinks": {
