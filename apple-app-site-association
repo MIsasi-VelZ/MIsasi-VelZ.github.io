@@ -1,13 +1,17 @@
 
-
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "NV468985ND.com.velocityz.peeq",
-      "paths": ["*"]
-    }
-    ]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NV468985ND.com.velocityz.peeq",
+                "paths": [ "/users/"]
+            },
+            {
+                "appID": "NV468985ND.com.velocityz.peeq",
+                "paths": [ "*" ]
+            }
+        ]
   }
-}
+  }
+   
